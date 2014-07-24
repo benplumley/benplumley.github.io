@@ -12,6 +12,9 @@
 	background-color: #EFEFEF;
 	position: fixed;
 	z-index: 2;
+}
+
+object {
 	overflow: hidden;
 }
 
