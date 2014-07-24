@@ -12,6 +12,7 @@
 	background-color: #EFEFEF;
 	position: fixed;
 	z-index: 2;
+	overflow: hidden;
 }
 
 .main-box {
@@ -90,7 +91,7 @@ td {
 	vertical-align: top;
 	width: 20%;
 	min-width: 20%;
-	padding-right: 30px; 
+	padding-right: 30px;
 	border-right-style: solid;
 	border-right-width: 5px;
 	border-right-color: #428bca;
