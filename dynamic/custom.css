@@ -1,0 +1,127 @@
+.container {
+	width: 100%;
+	padding: 0px;
+}
+
+.menu {
+	width: 100%;
+	padding: 20px;
+	border-top-style: solid;
+	border-top-width: 2px;
+	border-top-color: #428bca;
+	background-color: #EFEFEF;
+	position: fixed;
+	z-index: 2;
+}
+
+.include {
+	overflow: hidden;
+}
+
+.main-box {
+	width: 100%;
+	min-height: 95vh;
+	padding: 50px;
+	background-color: #FFFFFF;
+}
+
+.footer {
+	height: 200px; /*must be equal to body padding-bottom*/
+	background-color: #EFEFEF;
+	color: #666666;
+	padding-left: 50px;
+	padding-top: 10px;
+	/*for curtain footer*/
+	content: "";
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+body {
+	/*for curtain footer*/
+    padding-bottom: 200px; /*must be equal to .footer height*/
+	background-color: #FFFFFF;
+	/*for shrink on scroll navbar*/
+	padding-top: 50px;
+}
+
+.curtain {
+	/*for curtain footer*/
+	position: relative;
+	z-index: 2;
+}
+
+nav.navbar.shrink {
+	/*for shrink on scroll navbar*/
+	min-height: 35px;
+}
+
+nav.shrink a {
+	/*for shrink on scroll navbar*/
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+nav.navbar.shrink div.menu {
+	/*for shrink on scroll navbar*/
+	padding: 8px;
+	border-style: none;
+}
+
+.huge {
+	font-size: 150px;
+}
+
+.panel-group {
+	padding: 20px;
+}
+
+table {
+	width: 100%;
+	font-size: 20pt;
+	table-layout: fixed;
+}
+
+td {
+	padding: 15px;
+}
+
+.table-year {
+	text-align: right;
+	vertical-align: top;
+	width: 20%;
+	min-width: 20%;
+	padding-right: 30px;
+	border-right-style: solid;
+	border-right-width: 5px;
+	border-right-color: #428bca;
+}
+
+.table-year-first {
+	border-right-style: dotted;
+}
+
+.table-timeline {
+	width: 5px;
+	padding: 0px;
+	overflow: visible;
+	text-align: center;
+}
+
+.table-glyphicon {
+	color: #428bca;
+	left: -33px;
+}
+
+table .label {
+	cursor: pointer;
+	position: relative;
+	bottom: 6px;
+}
+
+.label a {
+	color: #fff;
+}
