@@ -8,7 +8,7 @@
 
 	<body>
 		<div id="wrap" class="curtain">
-			<?php include 'header.php'; ?>
+			<?php include 'navbar.php'; ?>
 			<div class="container">
 				<div class="main-box">
 					<h1 class="huge">Hello.</h1>
