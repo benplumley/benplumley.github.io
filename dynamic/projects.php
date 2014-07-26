@@ -20,11 +20,9 @@
 							<div class="panel-body row">
 								<div class="col-md-9">
 									<p>Makestatic is a Windows utility which generates a static HTML site from a dynamic PHP site. It was created to make this website compatible with GitHub Pages, which does not support server-side scripting languages. Static websites are also much faster to use.</p>
-									<span class="label label-default">Web</span>
-									<span class="label label-default">HTML/CSS</span>
-									<span class="label label-default">PHP</span>
-									<span class="label label-default">JavaScript</span>
-									<span class="label label-default">mobile</span>
+									<span class="label label-default">Windows</span>
+									<span class="label label-default">Visual Basic</span>
+									<span class="label label-default">Portable</span>
 								</div>
 								<div class="col-md-3 text-center">
 									<a type="button" class="btn btn-default" href="https://github.com/benplumley/makestatic/releases/download/v1.0/makestatic.exe">
