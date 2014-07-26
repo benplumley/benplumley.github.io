@@ -27,12 +27,12 @@
 									<span class="label label-default">mobile</span>
 								</div>
 								<div class="col-md-3 text-center">
-									<button type="button" class="btn btn-default" href="https://github.com/benplumley/makestatic/releases/download/v1.0/makestatic.exe">
+									<a type="button" class="btn btn-default" href="https://github.com/benplumley/makestatic/releases/download/v1.0/makestatic.exe">
 										<span class="glyphicon glyphicon-download"></span> Download
-									</button>
-									<button type="button" class="btn btn-default" href="https://github.com/benplumley/makestatic">
+									</a>
+									<a type="button" class="btn btn-default" href="https://github.com/benplumley/makestatic">
 										<img src="https://raw.githubusercontent.com/github/developer.github.com/master/favicon.ico" height="14" width="14"></img> GitHub
-									</button>
+									</a>
 								</div>
 							</div>
 						</div>
@@ -50,12 +50,12 @@
 									<span class="label label-default">mobile</span>
 								</div>
 								<div class="col-md-3 text-center">
-									<button type="button" class="btn btn-default disabled" href="#">
+									<a type="button" class="btn btn-default disabled" href="#">
 										<span class="glyphicon glyphicon-download"></span> Download
-									</button>
-									<button type="button" class="btn btn-default" href="#">
+									</a>
+									<a type="button" class="btn btn-default" href="#">
 										<img src="https://raw.githubusercontent.com/github/developer.github.com/master/favicon.ico" height="14" width="14"></img> GitHub
-									</button>
+									</a>
 								</div>
 							</div>
 						</div>
@@ -76,12 +76,12 @@
 									<span class="label label-default">Portable</span>
 								</div>
 								<div class="col-md-3 text-center">
-									<button type="button" class="btn btn-default" href="#">
+									<a type="button" class="btn btn-default" href="#">
 										<span class="glyphicon glyphicon-download"></span> Download
-									</button>
-									<button type="button" class="btn btn-default" href="#">
+									</a>
+									<a type="button" class="btn btn-default" href="#">
 										<img src="https://raw.githubusercontent.com/github/developer.github.com/master/favicon.ico" height="14" width="14"></img> GitHub
-									</button>
+									</a>
 								</div>
 							</div>
 						</div>
@@ -102,12 +102,12 @@
 									<span class="label label-default">SQLite</span>
 								</div>
 								<div class="col-md-3 text-center">
-									<button type="button" class="btn btn-default" href="#">
+									<a type="button" class="btn btn-default" href="#">
 										<span class="glyphicon glyphicon-download"></span> Download
-									</button>
-									<button type="button" class="btn btn-default" href="#">
+									</a>
+									<a type="button" class="btn btn-default" href="#">
 										<img src="https://raw.githubusercontent.com/github/developer.github.com/master/favicon.ico" height="14" width="14"></img> GitHub
-									</button>
+									</a>
 								</div>
 							</div>
 						</div>
@@ -126,12 +126,12 @@
 									<span class="label label-default">Portable</span>
 								</div>
 								<div class="col-md-3 text-center">
-									<button type="button" class="btn btn-default" href="#">
+									<a type="button" class="btn btn-default" href="#">
 										<span class="glyphicon glyphicon-download"></span> Download
-									</button>
-									<button type="button" class="btn btn-default" href="#">
+									</a>
+									<a type="button" class="btn btn-default" href="#">
 										<img src="https://raw.githubusercontent.com/github/developer.github.com/master/favicon.ico" height="14" width="14"></img> GitHub
-									</button>
+									</a>
 								</div>
 							</div>
 						</div>
