@@ -25,7 +25,7 @@
 									<span class="label label-default">Portable</span>
 								</div>
 								<div class="col-md-3 text-center">
-									<a type="button" class="btn btn-default" href="https://github.com/benplumley/makestatic/releases/download/v1.0/makestatic.exe">
+									<a type="button" class="btn btn-default" href="https://github.com/benplumley/makestatic/releases/latest">
 										<span class="glyphicon glyphicon-download"></span> Download
 									</a>
 									<a type="button" class="btn btn-default" href="https://github.com/benplumley/makestatic">
