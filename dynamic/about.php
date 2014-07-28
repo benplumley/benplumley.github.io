@@ -201,7 +201,7 @@
 					<h2 id="OSX">OSX</h2>
 					<p>My secondary school was an Apple Regional Training Centre, so almost all design, music and art work was done using iMacs and eMacs. I realise "I can use a Mac" isn't much of an achievement, but it's left me well accustomed to design programs like Photoshop, and music programs like Logic.</p><br>
 					<h2 id="Java">Java</h2>
-					<p>In 2010, I did two weeks work experience with IBM in Hursley. I was asked to work through a Java tutorial, which was my first introduction to real programming. This tutorial focused on object-oriented programming, and by the time I started my work experience, I was able to make a variety of short programs that ran in the Eclipse console. At IBM, I was put on a team working on the WebSphere software. Unfortunately, I'm not able to discuss what I worked on, just that it didn't involve making drinks for the team.</p><br>
+					<p>In 2010, I did two weeks work experience with IBM in Hursley. I was asked to work through a Java tutorial, which was my first introduction to real programming. This tutorial focused on object-oriented programming, and by the time I started my work experience, I was able to make a variety of short programs that ran in the Eclipse console. At IBM, I was put on a team working on the WebSphere software.</p><br>
 					<h2 id="Android">Android</h2>
 					<p>In early 2011, I bought an HTC Wildfire running Android Eclair. It was slow, small and ugly but the user experience jump from Symbian to Android was more than enough for me to ignore its shortcomings. Then, in 2012, I bought an LG Nexus 4 almost immediately after it was released. The difference between Eclair in Sense lipstick on a 240p screen and stock Jelly Bean on a 720p screen was huge. I'm still using the Nexus 4, running KitKat now, but I'm keeping my eyes open for a replacement. One I've got my eye on is the OnePlus One, which isn't scheduled for release yet.</p><br>
 					<h2 id="Visual Basic">Visual Basic</h2>
@@ -211,7 +211,7 @@
 					<h2 id=".NET">.NET</h2>
 					<p>In the second year of my computing A Level, I learned how to use the .NET framework to make form applications in Visual Basic. Many of my projects use it for tasks such as reading from an SQL database and taking pictures using the computer's webcam.</p><br>
 					<h2 id="SQL">SQL</h2>
-					<p></p><br>
+					<p>SQL is a big part of the A Level syllabus, which is where I was introduced to it. Soon after, I used it in Totally to store what could become thousands or tens of thousands of records over the program's lifetime.</p><br>
 					<h2 id="HTML">HTML</h2>
 					<p>Despite having made six websites since 2009, the first five were all made using DreamWeaver's WYSIWYG editor. This site is the first that I've made exclusively by writing HTML in a text editor. I started learning it on Codecademy but after the first few lessons, I started to enjoy it so much that I decided to teach myself.</p><br>
 					<h2 id="CSS">CSS</h2>
