@@ -4,6 +4,7 @@
 		<title>Ben Plumley</title>
 		<link href="bootstrap-3.2.0-dist/css/bootstrap.css" rel="stylesheet">
 		<link href="custom.css" rel="stylesheet">
+		<link href="favicon.png" rel="icon" type="image/png">
 	</head>
 
 	<body>
