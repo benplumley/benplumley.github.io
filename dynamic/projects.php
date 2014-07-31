@@ -101,10 +101,10 @@
 									<span class="label label-default">SQLite</span>
 								</div>
 								<div class="col-md-3 text-center">
-									<a type="button" class="btn btn-default" href="#">
+									<a type="button" class="btn btn-default" href="https://github.com/benplumley/Totally/releases/latest">
 										<span class="glyphicon glyphicon-download"></span> Download
 									</a>
-									<a type="button" class="btn btn-default" href="#">
+									<a type="button" class="btn btn-default" href="https://github.com/benplumley/Totally">
 										<img src="https://raw.githubusercontent.com/github/developer.github.com/master/favicon.ico" height="14" width="14"></img> GitHub
 									</a>
 								</div>
