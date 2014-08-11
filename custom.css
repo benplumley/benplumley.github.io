@@ -26,7 +26,7 @@
 }
 
 .footer {
-	height: 200px; /*must be equal to body padding-bottom*/
+	height: 250px; /*must be equal to body padding-bottom*/
 	background-color: #EFEFEF;
 	color: #666666;
 	padding-left: 50px;
@@ -42,7 +42,7 @@
 
 body {
 	/*for curtain footer*/
-    padding-bottom: 200px; /*must be equal to .footer height*/
+    padding-bottom: 250px; /*must be equal to .footer height*/
 	background-color: #FFFFFF;
 	/*for shrink on scroll navbar*/
 	padding-top: 50px;
