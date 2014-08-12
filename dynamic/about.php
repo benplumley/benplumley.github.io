@@ -175,7 +175,8 @@
 								<td>
 									<span class="glyphicon glyphicon-asterisk table-glyphicon"></span>
 									<span class="label label-default" onclick="showIt('HTML')" href="#">HTML</span> <!--Important space-->
-									<span class="label label-default" onclick="showIt('CSS')" href="#">CSS</span>
+									<span class="label label-default" onclick="showIt('CSS')" href="#">CSS</span> <!--Important space-->
+									<span class="label label-default" onclick="showIt('Version Control')" href="#">Version Control</span>
 								</td>
 							</tr>
 							<tr>
@@ -213,7 +214,9 @@
 					<h2 id="HTML">HTML</h2>
 					<p>Despite having made six websites since 2009, the first five were all made using DreamWeaver's WYSIWYG editor. This site is the first that I've made exclusively by writing HTML in a text editor. I started learning it on Codecademy but after the first few lessons, I started to enjoy it so much that I decided to teach myself.</p><br>
 					<h2 id="CSS">CSS</h2>
-					<p></p><br>
+					<p>This website uses Twitter's Bootstrap and a custom CSS file for its styles. Using CSS, I have made the website responsive, and also created the curtain footer and shrinking navbar.</p><br>
+					<h2 id="Version Control">Version Control</h2>
+					<p>Since I started using GitHub for version control, I have created repositories for all my major projects, including this website. I have also contributed to some open source projects through GitHub.</p><br>
 				</div>
 			</div>
 		</div>
