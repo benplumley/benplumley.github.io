@@ -33,16 +33,28 @@
 	padding-top: 10px;
 	/*for curtain footer*/
 	content: "";
+<<<<<<< HEAD
 	position: fixed;
 	left: 0;
 	right: 0;
 	bottom: 0;
 	z-index: 1;
+=======
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+>>>>>>> origin/master
 }
 
 body {
 	/*for curtain footer*/
+<<<<<<< HEAD
 	padding-bottom: 250px; /*must be equal to .footer height*/
+=======
+  padding-bottom: 250px; /*must be equal to .footer height*/
+>>>>>>> origin/master
 	background-color: #FFFFFF;
 	/*for shrink on scroll navbar*/
 	padding-top: 50px;
