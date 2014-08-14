@@ -125,17 +125,21 @@ table .label {
 	color: #fff;
 }
 
-.scroll-page-first {
+.scroll-page {
 	height: calc(100vh - 50px);
-	background-color: #428bca;
 	position: relative;
+	background-color: #FFFFFF;
 }
 
-.scroll-page-first .main-box {
+.first-page {
+	background-color: #428bca;
+}
+
+.first-page .main-box {
 	background-color: #428bca;
 	color: #FFFFFF;
-	height: 31.3em; /*this must be just big enough to fit its contents, and equal to .scroll-page-first.main-box margin-top*/
+	height: 31.3em; /*this must be just big enough to fit its contents, and equal to .first-page.main-box margin-top*/
 	position: absolute;
 	top: 50%;
-	margin-top: calc((-0.5 * 31.3em) - 25px); /*The em number must be equal to .main-box height*/
+	margin-top: calc((-0.5 * 31.3em) - 25px); /*The em number must be equal to .first-page.main-box height*/
 }
