@@ -11,7 +11,7 @@
 		<div id="wrap" class="curtain">
 			<?php include 'navbar.php'; ?>
 			<div class="container">
-				<div class="scroll-page-first">
+				<div class="scroll-page first-page">
 					<div class="main-box">
 						<h1 class="huge">Hello.</h1>
 						<h2>I'm Ben Plumley. I write programs and make websites.</h2>
@@ -24,6 +24,12 @@
 								<p>This website is a portfolio of my skills and projects. I will use it to document technologies and systems I am familiar with, programs and websites I've made, and my up-to-date contact information.</p>
 							</div>
 						</div>
+					</div>
+				</div>
+				<div class="scroll-page">
+					<div class="main-box">
+
+						<p>test</p>
 					</div>
 				</div>
 			</div>
