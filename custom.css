@@ -7,9 +7,9 @@
 	width: 100%;
 	padding: 20px;
 	border-top-style: solid;
-	border-top-width: 2px;
+	border-top-width: 4px;
 	border-top-color: #428bca;
-	background-color: #EFEFEF;
+	background-color: #9BCCF5;
 	position: fixed;
 	z-index: 2;
 }
@@ -20,7 +20,6 @@
 
 .main-box {
 	width: 100%;
-	min-height: 95vh;
 	padding: 50px;
 	background-color: #FFFFFF;
 }
@@ -124,4 +123,19 @@ table .label {
 
 .label a {
 	color: #fff;
+}
+
+.scroll-page-first {
+	height: calc(100vh - 50px);
+	background-color: #428bca;
+	position: relative;
+}
+
+.scroll-page-first .main-box {
+	background-color: #428bca;
+	color: #FFFFFF;
+	height: 31.3em; /*this must be just big enough to fit its contents, and equal to .scroll-page-first.main-box margin-top*/
+	position: absolute;
+	top: 50%;
+	margin-top: calc((-0.5 * 31.3em) - 25px); /*The em number must be equal to .main-box height*/
 }
