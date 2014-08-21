@@ -7,11 +7,18 @@
 	width: 100%;
 	padding: 20px;
 	border-top-style: solid;
-	border-top-width: 4px;
+	border-top-width: 2px;
 	border-top-color: #428bca;
-	background-color: #9BCCF5;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #428bca;
+	background-color: #FFFFFF;
 	position: fixed;
 	z-index: 2;
+}
+
+.nav li a:hover {
+	background-color: #FFFFFF;
 }
 
 .include {
@@ -68,6 +75,9 @@ nav.navbar.shrink div.menu {
 	/*for shrink on scroll navbar*/
 	padding: 8px;
 	border-style: none;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #428bca;
 }
 
 .huge {
