@@ -17,7 +17,9 @@
 	z-index: 2;
 }
 
-
+.nav > li > a:hover, .nav > li > a:focus {
+	background-color: #FFFFFF;
+}
 
 .include {
 	overflow: hidden;
