@@ -28,8 +28,8 @@
 				</div>
 				<div class="scroll-page">
 					<div class="main-box">
-
-						<p>test</p>
+						<h2>I write programs</h2>
+						<p>I've written dozens of programs and utilities since I started programming. A few of my favourites can be found on this website.</p>
 					</div>
 				</div>
 			</div>
