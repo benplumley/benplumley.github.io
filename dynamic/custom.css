@@ -160,7 +160,11 @@ table .label {
 	bottom: 30px;
 	width: 100%;
 	text-align: center;
-	color: #FFFFFF;
+	color: #000000;
 	top: auto;
 	cursor: pointer;
+}
+
+.first-page .down-arrow {
+	color: #FFFFFF;
 }
