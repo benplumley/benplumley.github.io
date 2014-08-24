@@ -4,6 +4,8 @@
 		<title>Ben Plumley</title>
 		<link href="bootstrap-3.2.0-dist/css/bootstrap.css" rel="stylesheet">
 		<link href="custom.css" rel="stylesheet">
+		<link href="pace/pace.css" rel="stylesheet">
+		<script src="pace/pace.js"></script>
 		<link href="favicon.png" rel="icon" type="image/png">
 	</head>
 
