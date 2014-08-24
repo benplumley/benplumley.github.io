@@ -25,6 +25,7 @@
 							</div>
 						</div>
 					</div>
+					<span class="glyphicon glyphicon-chevron-down down-arrow"></span>
 				</div>
 				<div class="scroll-page">
 					<div class="main-box">
