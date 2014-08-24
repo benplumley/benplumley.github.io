@@ -153,3 +153,12 @@ table .label {
 	top: 50%;
 	margin-top: calc((-0.5 * 31.3em) - 25px); /*The em number must be equal to .first-page.main-box height*/
 }
+
+.down-arrow {
+	position: absolute;
+	bottom: 30px;
+	width: 100%;
+	text-align: center;
+	color: #FFFFFF;
+	top: auto;
+}
