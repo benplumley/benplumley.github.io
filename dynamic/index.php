@@ -27,11 +27,11 @@
 							</div>
 						</div>
 					</div>
-					<span class="glyphicon glyphicon-chevron-down down-arrow"></span>
+					<span class="glyphicon glyphicon-chevron-down down-arrow" onclick="showScreen('writePrograms')"></span>
 				</div>
 				<div class="scroll-page">
 					<div class="main-box">
-						<h2>I write programs</h2>
+						<h2 id="writePrograms">I write programs</h2>
 						<p>I've written dozens of programs and utilities since I started programming. A few of my favourites can be found on this website.</p>
 					</div>
 				</div>
