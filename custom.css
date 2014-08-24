@@ -136,12 +136,13 @@ table .label {
 }
 
 .scroll-page {
-	height: calc(100vh - 50px);
+	height: calc(100vh - 38px);
 	position: relative;
 	background-color: #FFFFFF;
 }
 
 .first-page {
+	height: calc(100vh - 50px);
 	background-color: #428bca;
 }
 
