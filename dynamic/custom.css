@@ -168,3 +168,7 @@ table .label {
 .first-page .down-arrow {
 	color: #FFFFFF;
 }
+
+.fixed-height {
+	height: 65px;
+}
