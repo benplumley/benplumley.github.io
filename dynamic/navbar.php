@@ -1,7 +1,3 @@
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script type="text/javascript" src="navbar_shrink.js"></script>
-<script type="text/javascript" src="scroll_into_view.js"></script>
-
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="menu">
 		<div class="pull-left">
