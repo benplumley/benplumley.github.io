@@ -149,10 +149,15 @@ table .label {
 .first-page .main-box {
 	background-color: #428bca;
 	color: #FFFFFF;
-	height: 31.3em; /*this must be just big enough to fit its contents, and equal to .first-page.main-box margin-top*/
-	position: absolute;
-	top: 50%;
-	margin-top: calc((-0.5 * 31.3em) - 25px); /*The em number must be equal to .first-page.main-box height*/
+}
+
+@media (min-width: 892px) {
+	.first-page .main-box {
+		height: 31.3em; /*this must be just big enough to fit its contents, and equal to .first-page.main-box margin-top*/
+		position: absolute;
+		top: 50%;
+		margin-top: calc((-0.5 * 31.3em) - 25px); /*The em number must be equal to .first-page.main-box height*/
+	}
 }
 
 .down-arrow {

@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<title>Ben Plumley</title>
+		<meta name="viewport" content="width=device-width, initial-scale=0.9">
 		<link href="bootstrap-3.2.0-dist/css/bootstrap.css" rel="stylesheet">
 		<link href="custom.css" rel="stylesheet">
 		<link href="pace/pace.css" rel="stylesheet">
