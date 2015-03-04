@@ -96,6 +96,7 @@ table {
 
 td {
 	padding: 15px;
+	padding-left: 30px;
 }
 
 .table-year {
@@ -122,7 +123,12 @@ td {
 
 .table-glyphicon {
 	color: #428bca;
-	left: -33px;
+	left: -17px;
+}
+
+.glyphicon-asterisk.table-glyphicon {
+	font-size: 18pt;
+	left: -15px;
 }
 
 table .label {
@@ -149,10 +155,15 @@ table .label {
 .first-page .main-box {
 	background-color: #428bca;
 	color: #FFFFFF;
-	height: 31.3em; /*this must be just big enough to fit its contents, and equal to .first-page.main-box margin-top*/
-	position: absolute;
-	top: 50%;
-	margin-top: calc((-0.5 * 31.3em) - 25px); /*The em number must be equal to .first-page.main-box height*/
+}
+
+@media (min-width: 892px) {
+	.first-page .main-box {
+		height: 31.3em; /*this must be just big enough to fit its contents, and equal to .first-page.main-box margin-top*/
+		position: absolute;
+		top: 50%;
+		margin-top: calc((-0.5 * 31.3em) - 25px); /*The em number must be equal to .first-page.main-box height*/
+	}
 }
 
 .down-arrow {
@@ -171,4 +182,8 @@ table .label {
 
 .fixed-height {
 	height: 65px;
+}
+
+.constrain-width {
+	max-width: 60em;
 }
