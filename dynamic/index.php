@@ -20,7 +20,7 @@
 						<br>
 						<div class="row">
 							<div class="col-md-6">
-								<p>Allow me to introduce myself. I am studying for a degree in Computer Science at Bath University, and I'm currently based in Southampton, England. I studied Computing at college and I've been making things since 2004.</p>
+								<p>Allow me to introduce myself. I am studying for a degree in Computer Science at Bath University, where I'm currently based. I studied Computing at college and I've been making things since 2004.</p>
 							</div>
 							<div class="col-md-6">
 								<p>This website is a portfolio of my skills and projects. I will use it to document technologies and systems I am familiar with, programs and websites I've made, and my up-to-date contact information.</p>

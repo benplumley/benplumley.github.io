@@ -2,7 +2,7 @@
 	<div class="menu">
 		<div class="pull-left">
 			<ul class="nav nav-pills">
-				<li><a href="index.html" target="_parent">Ben Plumley</a></li>
+				<li><a href="/" target="_parent">Ben Plumley</a></li>
 				<li><a href="projects.html" target="_parent">Projects</a></li>
 				<li><a href="about.html" target="_parent">About</a></li>
 			</ul>

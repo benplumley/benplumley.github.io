@@ -96,6 +96,7 @@ table {
 
 td {
 	padding: 15px;
+	padding-left: 30px;
 }
 
 .table-year {
@@ -122,7 +123,12 @@ td {
 
 .table-glyphicon {
 	color: #428bca;
-	left: -33px;
+	left: -17px;
+}
+
+.glyphicon-asterisk.table-glyphicon {
+	font-size: 18pt;
+	left: -15px;
 }
 
 table .label {
@@ -176,4 +182,8 @@ table .label {
 
 .fixed-height {
 	height: 65px;
+}
+
+.constrain-width {
+	max-width: 60em;
 }
