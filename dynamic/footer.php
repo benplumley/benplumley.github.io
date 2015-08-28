@@ -2,7 +2,6 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
-				<p>Tested on and designed for Chrome. Problems? <a href="http://whatbrowser.org/" target="_blank">Update your browser.</a></p>
 				<p>Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Check it out, you might like it as much as I do.</p>
 			</div>
 			<div class="col-md-4">

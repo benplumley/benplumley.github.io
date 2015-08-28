@@ -39,7 +39,7 @@
 						<br>
 
 						<div class="panel panel-default">
-							<div class="panel-heading">benplumley.github.io <span class="badge">2014</span></div>
+							<div class="panel-heading">benplumley.com <span class="badge">2014</span></div>
 							<div class="panel-body row">
 								<div class="col-md-9">
 									<p>This website was created as a place to introduce myself and showcase a few of my projects. It is the first website I made by writing HTML and CSS in a code editor, rather than dragging and dropping elements in a WYSIWYG editor.</p>

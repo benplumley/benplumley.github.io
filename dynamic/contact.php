@@ -15,22 +15,28 @@
 				<div class="main-box">
 					<h1>Contact</h1>
 					<div class="row panel-group">
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="list-group">
 								<p class="list-group-item fixed-height">Email me if you want to get in touch.</p>
 								<a href="mailto:benplumley@gmail.com" class="list-group-item active text-center">Email</a>
 							</div>
 						</div>
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="list-group">
 								<p class="list-group-item fixed-height">Follow me for updates or start a hangout if you want to chat.</p>
 								<a href="http://plus.google.com/+BenPlumley95" class="list-group-item active text-center">View Google+ profile</a>
 							</div>
 						</div>
-						<div class="col-md-4">
+						<div class="col-md-3">
 							<div class="list-group">
 								<p class="list-group-item fixed-height">See and adapt my source code on GitHub.</p>
 								<a href="http://github.com/benplumley" class="list-group-item active text-center">View GitHub profile</a>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="list-group">
+								<p class="list-group-item fixed-height">Connect with me on LinkedIn.</p>
+								<a href="http://uk.linkedin.com/in/benplumley" class="list-group-item active text-center">View LinkedIn profile</a>
 							</div>
 						</div>
 					</div>

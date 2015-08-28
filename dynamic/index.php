@@ -15,30 +15,35 @@
 			<div class="container">
 				<div class="scroll-page first-page">
 					<div class="main-box">
-						<h1 class="huge">Hello.</h1>
-						<h2>I'm Ben Plumley. I write programs and make websites.</h2>
-						<br>
-						<div class="row">
-							<div class="col-md-6">
-								<p>Allow me to introduce myself. I am studying for a degree in Computer Science at Bath University, where I'm currently based. I studied Computing at college and I've been making things since 2004.</p>
-							</div>
-							<div class="col-md-6">
-								<p>This website is a portfolio of my skills and projects. I will use it to document technologies and systems I am familiar with, programs and websites I've made, and my up-to-date contact information.</p>
+						<div class="vertical-center-outer">
+  						<div class="vertical-center-inner">
+								<h1 class="huge">Hello.</h1>
+								<h2>I'm Ben Plumley. I write programs and make websites.</h2>
+								<br>
+								<div class="row">
+									<div class="col-md-6">
+										<p>Allow me to introduce myself. I am studying for a degree in Computer Science at Bath University, where I'm currently based. I studied Computing at college and I've been making things since 2004.</p>
+									</div>
+									<div class="col-md-6">
+										<p>This website is a portfolio of my skills and projects. I will use it to document technologies and systems I am familiar with, programs and websites I've made, and my up-to-date contact information.</p>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
-					<span class="glyphicon glyphicon-chevron-down down-arrow" onclick="showScreen('writePrograms')"></span>
+					<span class="glyphicon glyphicon-chevron-down down-arrow" onclick="showScreen('page2')"></span>
 				</div>
 				<div class="scroll-page">
 					<div class="main-box">
-						<h2 id="writePrograms">I write programs</h2>
-						<p>I've written dozens of programs and utilities since I started programming. A few of my favourites can be found on this website.</p>
-					</div>
-					<span class="glyphicon glyphicon-chevron-down down-arrow" onclick="showScreen('makeWebsites')"></span>
-				</div>
-				<div class="scroll-page">
-					<div class="main-box">
-						<h2 id="makeWebsites">I make websites</h2>
+						<div class="vertical-center-outer">
+							<h2 id="page2"></h2>
+							<div class="vertical-center-inner">
+								<div class="horizontal-align">
+									<img class="circle" width="200" height="200" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAANhAAAAJGVmMDFkN2VjLWEwMjEtNGY2NS05Yjc1LWMxMDUxZDU0YzA3ZA.jpg"></img>
+									<a type="button" class="btn btn-primary" href="contact">Get in touch</a>
+								</div>
+  						</div>
+						</div>
 					</div>
 				</div>
 			</div>
