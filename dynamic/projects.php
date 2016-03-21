@@ -31,7 +31,7 @@
 										<span class="glyphicon glyphicon-download"></span> Download
 									</a>
 									<a type="button" class="btn btn-default" href="https://github.com/benplumley/makestatic">
-										<img src="https://raw.githubusercontent.com/github/developer.github.com/master/favicon.ico" height="14" width="14"></img> GitHub
+										<img src="https://github.com/favicon.ico" height="14" width="14"></img> GitHub
 									</a>
 								</div>
 							</div>
@@ -54,7 +54,7 @@
 										<span class="glyphicon glyphicon-download"></span> Download
 									</a>
 									<a type="button" class="btn btn-default" href="https://github.com/benplumley/benplumley.github.io">
-										<img src="https://raw.githubusercontent.com/github/developer.github.com/master/favicon.ico" height="14" width="14"></img> GitHub
+										<img src="https://github.com/favicon.ico" height="14" width="14"></img> GitHub
 									</a>
 								</div>
 							</div>
@@ -80,7 +80,7 @@
 										<span class="glyphicon glyphicon-download"></span> Download
 									</a>
 									<a type="button" class="btn btn-default" href="https://github.com/benplumley/Loxee">
-										<img src="https://raw.githubusercontent.com/github/developer.github.com/master/favicon.ico" height="14" width="14"></img> GitHub
+										<img src="https://github.com/favicon.ico" height="14" width="14"></img> GitHub
 									</a>
 								</div>
 							</div>
@@ -106,7 +106,7 @@
 										<span class="glyphicon glyphicon-download"></span> Download
 									</a>
 									<a type="button" class="btn btn-default" href="https://github.com/benplumley/Totally">
-										<img src="https://raw.githubusercontent.com/github/developer.github.com/master/favicon.ico" height="14" width="14"></img> GitHub
+										<img src="https://github.com/favicon.ico" height="14" width="14"></img> GitHub
 									</a>
 								</div>
 							</div>
@@ -130,7 +130,7 @@
 										<span class="glyphicon glyphicon-download"></span> Download
 									</a>
 									<a type="button" class="btn btn-default" href="#">
-										<img src="https://raw.githubusercontent.com/github/developer.github.com/master/favicon.ico" height="14" width="14"></img> GitHub
+										<img src="https://github.com/favicon.ico" height="14" width="14"></img> GitHub
 									</a>
 								</div>
 							</div>
