@@ -225,16 +225,30 @@
 							<tr>
 								<td class="table-year">2015</td>
 								<td class="table-timeline">
-									<span class="glyphicon glyphicon-asterisk table-glyphicon"></span>
+									<span class="glyphicon glyphicon-minus table-glyphicon"></span>
 								</td>
 								<td>
 									<!-- <span class="glyphicon glyphicon-minus table-glyphicon"></span> -->
 									<span class="label label-default" onclick="showIt('CentOS')" href="#">CentOS</span> <!--Important space-->
-									<span class="label label-default" onclick="showIt('GitHub Collaboration')" href="#">GitHub Collaboration</span>
+									<span class="label label-default" onclick="showIt('GitHub Collaboration')" href="#">GitHub Collaboration</span> <!--Important space-->
+                                    <span class="label label-default" onclick="showIt('Clojure')" href="#">Clojure</span> <!--Important space-->
+                                    <span class="label label-default" onclick="showIt('OpenGL')" href="#">OpenGL</span>
 								</td>
 							</tr>
 							<tr>
-								<td class="table-year table-year-first">2016</td>
+								<td class="table-year">2016</td>
+								<td class="table-timeline">
+									<span class="glyphicon glyphicon-asterisk table-glyphicon"></span>
+								</td>
+								<td>
+									<!-- <span class="glyphicon glyphicon-minus table-glyphicon"></span> -->
+                                    <span class="label label-default" onclick="showIt('Haskell')" href="#">Haskell</span> <!--Important space-->
+                                    <span class="label label-default" onclick="showIt('Prolog')" href="#">Prolog</span> <!--Important space-->
+                                    <span class="label label-default" onclick="showIt('MATLAB')" href="#">MATLAB</span>
+								</td>
+							</tr>
+                            <tr>
+								<td class="table-year table-year-first">2017</td>
 								<td class="table-timeline">
 									<span class="glyphicon glyphicon-minus table-glyphicon"></span>
 								</td>
@@ -293,6 +307,21 @@
 
 					<h2 id="GitHub Collaboration">GitHub Collaboration</h2>
 					<p class="constrain-width">My Computer Science degree also involved working on a shared GitHub code base with a team of programmers. This meant learning how to use lots of source control features that I'd previously had no use for, such as pulling and branching. It also meant learning how to deal with the organisational side of programming with a team, something I hadn't previously tried.</p><br>
+
+                    <h2 id="Clojure">Clojure</h2>
+                    <p class="constrain-width"></p><br>
+
+                    <h2 id="OpenGL">OpenGL</h2>
+                    <p class="constrain-width"></p><br>
+
+                    <h2 id="Haskell">Haskell</h2>
+                    <p class="constrain-width"></p><br>
+
+                    <h2 id="Prolog">Prolog</h2>
+                    <p class="constrain-width"></p><br>
+
+                    <h2 id="MATLAB">MATLAB</h2>
+                    <p class="constrain-width"></p><br>
 
 				</div>
 			</div>
