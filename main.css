@@ -1,0 +1,32 @@
+body {
+    font-family:Open Sans,Arial;
+    color:#535353;
+    font-size:18px;
+    margin:2em auto;
+    max-width:800px;
+    padding:1em;
+    line-height:1.4;
+    text-align:justify
+}
+html.inverted html {
+    background-color:#fcf8ef
+}
+a {
+    color:#07a
+}
+a:visited {
+    color:#941352
+}
+h1 {
+    padding-top:2em;
+}
+code {
+    font-weight: bold;
+    background-color: #e4e4e4;
+    margin: auto 4px;
+    padding: 4px 6px;
+    border-radius: 2px;
+}
+.center {
+    text-align: center;
+}
