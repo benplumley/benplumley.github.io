@@ -1,12 +1,13 @@
 body {
     font-family:Open Sans,Arial;
     color:#535353;
-    font-size:18px;
+    font-size:1.125em;
+    /* font-size: calc(2em + 1vmin); */
     margin:2em auto;
-    max-width:800px;
+    max-width:50em;
     padding:1em;
     line-height:1.4;
-    text-align:justify
+    text-align:justify;
 }
 html.inverted html {
     background-color:#fcf8ef
@@ -21,6 +22,7 @@ h1 {
     padding-top:2em;
 }
 code {
+    font-size:1.4em;
     font-weight: bold;
     background-color: #e4e4e4;
     margin: auto 4px;
@@ -29,4 +31,14 @@ code {
 }
 .center {
     text-align: center;
+}
+@media only screen and (max-width: 767px) {
+    h1 {
+        padding-top:0;
+        font-size: 2em;
+    }
+    body {
+        text-align:left;
+        font-size: 1.2em;
+    }
 }
