@@ -2,12 +2,10 @@ body {
     font-family:Open Sans,Arial;
     color:#535353;
     font-size:1.125em;
-    /* font-size: calc(2em + 1vmin); */
     margin:2em auto;
     max-width:50em;
     padding:1em;
-    line-height:1.4;
-    text-align:justify;
+    line-height:1.6;
 }
 html.inverted html {
     background-color:#fcf8ef
