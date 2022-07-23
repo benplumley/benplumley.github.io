@@ -1,0 +1,95 @@
+@font-face {
+  font-family: Backslash-Regular;
+  src: url(Backslash-Regular.otf);
+}
+
+@font-face {
+  font-family: THSarabun;
+  src: url(THSarabun.ttf);
+}
+
+body {
+    background-image: url("background.webp");
+    background-size: 100vw;
+    color: #1D1D1D;
+    padding: 5vw;
+    max-width: 60em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2 {
+    font-family: "Backslash-Regular";
+}
+
+h1 {
+    font-size: 80px;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h2.smallheading {
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 30px;
+}
+
+.centre {
+    text-align: center;
+}
+
+img.header {
+    max-width: min(90vw, 600px);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.photo {
+    max-width: 100%;
+}
+
+img.button {
+    max-width: min(50vw, 400px);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: #EB5A13;
+}
+
+.movedown {
+    position: relative;
+    top: 30px;
+}
+
+.hidden {
+    display: none;
+}
+
+.th {
+    font-family: "THSarabun";
+}
+
+p.th {
+    font-size: 50px;
+}
+
+.en {
+    display: none;
+}
+
+#switchlang {
+    display: block;
+    font-size: 30px;
+    text-align: right;
+    font-family: "sans-serif";
+}
