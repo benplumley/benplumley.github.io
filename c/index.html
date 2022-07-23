@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <title>Kang &amp; Ben's Engagement</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        lang="th";
+        function toggleLanguage() {
+          if (lang === "en") {
+            document.querySelectorAll(".en").forEach(el => {
+              el.style.display = "none";
+            });
+            document.querySelectorAll(".th").forEach(el => {
+              el.style.display = "block";
+            });
+            lang = "th";
+            document.getElementById("switchlang").innerHTML = "en";
+          } else {
+            document.querySelectorAll(".th").forEach(el => {
+              el.style.display = "none";
+            });
+            document.querySelectorAll(".en").forEach(el => {
+              el.style.display = "block";
+            });
+            lang = "en";
+            document.getElementById("switchlang").innerHTML = "th";
+          }
+        }
+    </script>
+  </head>
+  <body>
+    <a id="switchlang" onclick="toggleLanguage()" href="#">en</a>
+    <img class="header" src="orange_happiness.webp"></img>
+    <h2 class="smallheading centre">Engagement ceremony of</h2>
+    <h1 class="centre">Kang <span class="movedown">&amp;</span> Ben</h1>
+    <p class="en centre">Sunday 20th November 2022 • 9:00AM until afternoon</p>
+    <p class="th centre">วันอาทิตย์ที่ 20 พฤศจิกายน 2565 • 9.00 นาฬิกา</p>
+    <h2>Directions</h2>
+    <p class="en"><a href="https://www.google.com/maps/place/Bean+Sensory+Coffee+Roaster/@13.3673854,100.9831473,19z/data=!4m8!1m2!3m1!2sBean+Sensory+Coffee+Roaster!3m4!1s0x311d3591b95faf0f:0xf60ccd09ac3157da!8m2!3d13.3673854!4d100.9836945">Directions in Google Maps</a></p>
+    <p class="th"><a href="https://www.google.com/maps/place/Bean+Sensory+Coffee+Roaster/@13.3673854,100.9831473,19z/data=!4m8!1m2!3m1!2sBean+Sensory+Coffee+Roaster!3m4!1s0x311d3591b95faf0f:0xf60ccd09ac3157da!8m2!3d13.3673854!4d100.9836945">แผนที่ใน Google Maps</a></p>
+    <p class="en">312/8 ค, ซอยคูกำพล Makham Yong, Chon Buri District, Chon Buri 20000<br>
+    Next to Bean Sensory Coffee Roaster</p>
+    <p class="th">บ้านเลขที่ 312/8ค ซ.คูกำพล อ.เมือง จ.ชลบุรี<br>
+    ติดกับร้านกาแฟ Bean Sensory Coffee Roaster</p>
+    <p class="en">Limited on-road parking available</p>
+    <p class="th">จอดรถบนถนนในซอยได้ (จำนวนจำกัด)</p>
+    <h2>Share Your Photos &amp; Videos With Us</h2>
+    <a href="https://weduploader.com/upload/eQuRRnJM99ilXbch" target="_blank"><img class="button" src="button.png"></img></a>
+    <h2>Theme</h2>
+    <p class="en">Chinese style optional, in any colour</p>
+    <p class="th">แบบจีนหากสะดวก สีตามอิสระ</p>
+    <hr>
+    <br>
+    <img src="aniv.webp" class="photo"></img>
+    <img src="stonehenge.webp" class="photo"></img>
+  </body>
+</html>
