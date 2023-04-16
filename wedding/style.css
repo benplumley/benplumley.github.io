@@ -1,0 +1,79 @@
+@font-face {
+  font-family: DK;
+  src: url('DK Lemon Yellow Sun.otf');
+}
+
+@font-face {
+  font-family: wellingtons;
+  src: url('TT Wellingtons Trial Regular.otf');
+}
+
+body {
+    background-color: #357935;
+    color: white;
+    padding: 5vw;
+    max-width: min(90vw, 900px);
+    margin-left: auto;
+    margin-right: auto;
+    font-family: wellingtons;
+}
+
+.dk {
+    font-family: "DK";
+}
+
+.amp {
+    font-family: "Liberation Sans";
+    position: relative;
+    font-size: 30px;
+    top: -23px;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: "DK";
+    padding-top: 60px;
+}
+
+h2.smallheading {
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 30px;
+}
+
+.centre {
+    text-align: center;
+}
+
+img.header {
+    max-width: min(90vw, 900px);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.photo {
+    max-width: 100%;
+}
+
+img.button {
+    max-width: min(50vw, 400px);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: #EEEEEE;
+}
+
+.hidden {
+    display: none;
+}
